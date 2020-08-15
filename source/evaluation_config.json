@@ -1,0 +1,15 @@
+{
+  "players": {
+    "MVAlphaCudemoSchaerz" : "MVAlphaCudemoSchaerzPlayer",
+    "MVAlphaVito" : "MVAlphaVitoPlayer",
+    "MVDdqn" : "DdqnPlayer",
+    "MVDqn" : "DqnPlayer",
+    "MVDdqnPer" : "DdqnPerPlayer"
+  },
+  "baselines": {
+    "BaselinePokerPlayer": "BaselinePlayer"
+  },
+  "n_evaluations": 100000,
+  "small_blind": 1,
+  "log_file_location": "./logs"
+}
