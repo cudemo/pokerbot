@@ -11,7 +11,7 @@ This report describes models that can be applied to the well-known Texas Holdem 
 
 For execution, adjust agent composition as desired in runEvaluation.py.
 The number of evaluation rounds can be specified in line #50.
-The setup calls add_dqn_bots from configuration/CashGameConfig.py by default. The method registers six Ddqn and DdqnPer agents with different configurations. Different models are under [Components](/source/Components), including:
+The setup calls add_dqn_bots from configuration/CashGameConfig.py by default. The method registers six Ddqn and DdqnPer agents with different configurations. Different models are under [Components](source/Components), including:
 
 * Deep Q Network Model
 * Double Deep Q Network Model
