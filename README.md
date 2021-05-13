@@ -27,12 +27,12 @@ Sorry, thesis was in german
 ![Ablaufdiagramm DdqnPer](resources/Ablaufdiagramm_DDQNPer.png)
 
 
-### MVBasePokerPlayer Ablauf
+### MVBasePokerPlayer Flow
 
 ![Overview MVBasePokerPlayer flow](resources/MVBasePokerPlayer.png)
 
 ## Resources
 Resources are in german.
 
-[Developer Guide](resources/Developer_Guide.pdf)
-[Bericht](Bericht.pdf)
+*[Developer Guide](resources/Developer_Guide.pdf)
+*[Bericht](Bericht.pdf)
