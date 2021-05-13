@@ -34,5 +34,5 @@ Sorry, thesis was in german
 ## Resources
 Resources are in german.
 
-*[Developer Guide](resources/Developer_Guide.pdf)
-*[Bericht](Bericht.pdf)
+* [Developer Guide](resources/Developer_Guide.pdf)
+* [Bericht](Bericht.pdf)
